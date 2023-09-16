@@ -1,0 +1,112 @@
+---
+object: card
+id: 3342096a-24bf-4f66-911e-d8a0c856f722
+oracle_id: 6e5f908a-f4f1-4718-ac39-34176e401756
+multiverse_ids: []
+tcgplayer_id: 57638
+cardmarket_id: 252114
+name: Boneyard Wurm
+lang: en
+released_at: '2011-09-30'
+uri: https://api.scryfall.com/cards/3342096a-24bf-4f66-911e-d8a0c856f722
+scryfall_uri: https://scryfall.com/card/pw11/84/boneyard-wurm?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528
+  normal: https://cards.scryfall.io/normal/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528
+  large: https://cards.scryfall.io/large/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528
+  png: https://cards.scryfall.io/png/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.png?1677544528
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/3342096a-24bf-4f66-911e-d8a0c856f722.jpg?1677544528
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Creature — Wurm
+oracle_text: Boneyard Wurm's power and toughness are each equal to the number of creature
+  cards in your graveyard.
+power: "*"
+toughness: "*"
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: false
+variation: false
+set_id: 87732dfe-7fba-44e4-8c9c-fcf64c335e97
+set: pw11
+set_name: Wizards Play Network 2011
+set_type: promo
+set_uri: https://api.scryfall.com/sets/87732dfe-7fba-44e4-8c9c-fcf64c335e97
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apw11&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pw11?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3342096a-24bf-4f66-911e-d8a0c856f722/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6e5f908a-f4f1-4718-ac39-34176e401756&unique=prints
+collector_number: '84'
+digital: false
+rarity: rare
+watermark: wotc
+flavor_text: The only thing it likes more than discovering a pit of bones is adding
+  to it.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Austin Hsu
+artist_ids:
+- c5e439d8-b3db-4c13-ae93-4e129e3b9478
+illustration_id: d883a3b0-1a3b-461a-a2d2-c2f8a225e119
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- wizardsplaynetwork
+edhrec_rank: 8673
+penny_rank: 5376
+prices:
+  usd: 
+  usd_foil: '2.12'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.49'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Boneyard+Wurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Boneyard+Wurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Boneyard+Wurm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57638?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Boneyard+Wurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Boneyard+Wurm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
